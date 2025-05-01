@@ -1,0 +1,39 @@
+.product-row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.image-gallery{
+    max-width: 55%;
+    min-width: 50%;
+}
+.image-gallery img{
+    width: 100%;
+}
+.add-to-cart-button{
+    width: 250px;
+    height: 54px;
+    margin: 30px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.add-to-cart-button .Polaris-Spinner{
+    width: 20px;
+}
+.quanttiy-input{
+    width: 100px;
+    margin: 30px auto 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+.quanttiy-input .Polaris-Connected{
+    width: 40px;
+}
+.product-page{
+    height: 100%;
+    padding-top: 100px;
+}

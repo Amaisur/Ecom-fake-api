@@ -1,0 +1,20 @@
+ul li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    justify-content: start;
+    gap: 15px;
+    margin: 15px 0;
+}
+ul li img{
+    width: 80px;
+    height: auto;
+}
+.delete-product-cart button{
+    padding: 0;
+    margin: 10px 20px;
+}
+.delete-product-cart button span{
+    width: 20px;
+}
